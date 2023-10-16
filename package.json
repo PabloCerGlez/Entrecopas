@@ -2,7 +2,7 @@
   "name": "entrecopas",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://pablocerglez.github.io/entrecopas/",
+  "homepage": "https://pablocerglez.github.io/Entrecopas/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
