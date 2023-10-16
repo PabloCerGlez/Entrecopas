@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Entrecopas/static/css/main.f01482e5.css",
+    "main.js": "/Entrecopas/static/js/main.0b2de8f1.js",
+    "static/media/headerBackGroundLarge.png": "/Entrecopas/static/media/headerBackGroundLarge.1be7985c157b742a2661.png",
+    "static/media/headerBackGround.png": "/Entrecopas/static/media/headerBackGround.8c7a012e08687d0718a3.png",
+    "static/media/Athelas-Italic.ttf": "/Entrecopas/static/media/Athelas-Italic.1d3bee6dd0a31a0a8bc4.ttf",
+    "static/media/headerCode.PNG": "/Entrecopas/static/media/headerCode.eb6d615b9b2ee3fd86c1.PNG",
+    "static/media/evaluacionUno.PNG": "/Entrecopas/static/media/evaluacionUno.7900c042e81b079c7ef8.PNG",
+    "static/media/evaluacionSeis.PNG": "/Entrecopas/static/media/evaluacionSeis.de384f36a6ccf6383269.PNG",
+    "static/media/evaluacionTres.png": "/Entrecopas/static/media/evaluacionTres.5a93cb668680357ec264.png",
+    "static/media/evaluacionDos.PNG": "/Entrecopas/static/media/evaluacionDos.eb3065bfbbb52f83b4ed.PNG",
+    "static/media/headerComencemos.PNG": "/Entrecopas/static/media/headerComencemos.847a5b253050032830b8.PNG",
+    "static/media/headerRecompesasList.PNG": "/Entrecopas/static/media/headerRecompesasList.3332d0292e01921fdcc2.PNG",
+    "static/media/iconCreateAccount.svg": "/Entrecopas/static/media/iconCreateAccount.da3b8a07c75ee301726984acc24dd364.svg",
+    "static/media/iconEnterAccount.svg": "/Entrecopas/static/media/iconEnterAccount.2b446b870c18668b480b300b654cb982.svg",
+    "static/media/MiEvaluacionOriginal.PNG": "/Entrecopas/static/media/MiEvaluacionOriginal.6b95d349f36a6f0fd6ea.PNG",
+    "static/media/headerCentralHelp.PNG": "/Entrecopas/static/media/headerCentralHelp.ed1e77274a7e70b18711.PNG",
+    "static/media/icono-entrecopas.png": "/Entrecopas/static/media/icono-entrecopas.496b5b9ece2f64b1869b.png",
+    "static/media/iconStartExperience.svg": "/Entrecopas/static/media/iconStartExperience.238f6942a913738df405cb5baa833467.svg",
+    "static/media/LogoFooter.svg": "/Entrecopas/static/media/LogoFooter.4f3dfa53d92dba0e78a800fc267ce49e.svg",
+    "static/media/logoHeader.svg": "/Entrecopas/static/media/logoHeader.392e4a6ffa7129109732f9e6c720045f.svg",
+    "static/media/aunNoEres.PNG": "/Entrecopas/static/media/aunNoEres.ed843199730e6638ed7a.PNG",
+    "static/media/tempRectangle.svg": "/Entrecopas/static/media/tempRectangle.5b8a6eb38e4099e041f1e334838da446.svg",
+    "static/media/iconRewards.svg": "/Entrecopas/static/media/iconRewards.d695986ad35a32c9af17176808f61a65.svg",
+    "static/media/iconHelp.svg": "/Entrecopas/static/media/iconHelp.4006801c64153e2e81df1aabe0776ff9.svg",
+    "static/media/iconHelpParticipation.svg": "/Entrecopas/static/media/iconHelpParticipation.b1d352878494af47c85543c8ae3877aa.svg",
+    "index.html": "/Entrecopas/index.html",
+    "static/media/iconLogin.svg": "/Entrecopas/static/media/iconLogin.daf33c971836a0b161a86a277b2c15fe.svg",
+    "static/media/arrowBottom.svg": "/Entrecopas/static/media/arrowBottom.394efd67c5c66830524affb04951c6d9.svg",
+    "static/media/FooterBackGround.svg": "/Entrecopas/static/media/FooterBackGround.4d7f05801c41fbe12261c7146715107e.svg",
+    "main.f01482e5.css.map": "/Entrecopas/static/css/main.f01482e5.css.map",
+    "main.0b2de8f1.js.map": "/Entrecopas/static/js/main.0b2de8f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01482e5.css",
+    "static/js/main.0b2de8f1.js"
+  ]
+}
